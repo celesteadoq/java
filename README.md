@@ -1,7 +1,7 @@
 # java
 my codes in java
 
-jogo genius em java (incompleto)
+game genius in java (incomplet)
 
 	package alooo;
 
