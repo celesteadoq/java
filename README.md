@@ -3,16 +3,16 @@ my codes in java
 
 jogo genius em java (incompleto)
 
-package alooo;
+	package alooo;
 
-import java.util.Random;
-import java.util.Scanner;
+	import java.util.Random;
+	import java.util.Scanner;
 
-public class Aaalo {
+	public class Aaalo {
 
- public static void main(String[] args) {
+	public static void main(String[] args) {
 		
-	  int b = 3;
+		int b = 3;
 		int[] x;
 		x = new int[5];
 		int[] a;
@@ -59,5 +59,7 @@ public class Aaalo {
 	}
 	
 
-}
-end code
+	}
+
+
+
